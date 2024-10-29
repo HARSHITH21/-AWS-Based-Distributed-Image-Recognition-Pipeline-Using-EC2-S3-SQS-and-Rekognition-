@@ -1,0 +1,1 @@
+# -AWS-Based-Distributed-Image-Recognition-Pipeline-Using-EC2-S3-SQS-and-Rekognition-
