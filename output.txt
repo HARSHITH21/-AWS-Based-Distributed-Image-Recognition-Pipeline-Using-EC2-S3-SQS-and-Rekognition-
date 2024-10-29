@@ -1,0 +1,22 @@
+Detected text: $ BR8167 with confidence: 91.889%
+Detected text: $ with confidence: 93.115%
+Detected text: BR8167 with confidence: 90.658%
+1.jpg: $ BR8167 $ BR8167
+No text detected in 6.jpg
+6.jpg: 
+No text detected in 5.jpg
+5.jpg: 
+Detected text: Lamborghini with confidence: 97.241%
+Detected text: LP 610 LB with confidence: 95.6508%
+Detected text: ВО with confidence: 76.901%
+Detected text: BWW with confidence: 17.2477%
+Detected text: Lamborghini with confidence: 97.241%
+Detected text: LP with confidence: 99.602%
+Detected text: 610 LB with confidence: 91.699%
+Detected text: ВО with confidence: 76.901%
+Detected text: BWW with confidence: 17.247715%
+7.jpg: Lamborghini LP 610 LB ВО BWW Lamborghini LP 610 LB ВО BWW
+Detected text: YHI9 OTZ with confidence: 99.272%
+Detected text: YHI9 with confidence: 99.112%
+Detected text: OTZ with confidence: 99.432%
+4.jpg: YHI9 OTZ YHI9 OTZ
